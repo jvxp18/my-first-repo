@@ -1,30 +1,25 @@
-s is a large heading
+# Jimmy Phan
+### Geography
 
-## This is a smaller heading
+I live in Atlanta, Georgia of United States of America. 
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Movies
 
-- This is
-- an unordered
-- list
+Three of my favorite movies are 
 
-1. This is
-2. an ordered
-3. list
+- Avengers
+- Avengers Infinity Wars
+- Avengers End Game
 
-Here is `some code` in the middle of a sentence.
+### Food 
+My favorite restaraunts:
 
-```
-This is
-a block
-of code
-```
+1. Iron Age
+2. 678 
+3. My mom's cooking
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Please reach out to me via email @ jimmyxuanphan@gmail.com
 
-nano README.md
+##### -----------------------------------------------------------------
